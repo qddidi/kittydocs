@@ -16,7 +16,7 @@
     }
 </style>
 
-# el-button 按钮
+# Button 按钮
 
 ## 基础用法
 
